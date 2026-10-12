@@ -69,6 +69,8 @@ Once a response is validated, network controllers can implement changes such as 
 The system then measures the outcome. If latency decreases and packet loss improves, the action may have been effective. If conditions deteriorate, the system can reassess its decision. These observations can inform future adjustments and model improvements.
 Cybersecurity safeguards the process by protecting telemetry, securing communication between components and ensuring that automated actions follow appropriate policies.
 The loop continuously repeats as network conditions change. Its effectiveness depends on reliable data, suitable models, controlled execution and feedback—not simply on deploying an AI model. This combination provides the foundation for self-healing and self-optimizing networks.
+
+<img width="473" height="345" alt="Picture1" src="https://github.com/user-attachments/assets/336d3679-5255-4f6e-96f8-acf1f490d2be" />
  
 # 5. Self-Healing and Self-Optimizing Networks
 Intelligent networks can go beyond detecting problems to help recover from failures and improve performance. Self-healing focuses on restoring network operation after disruptions, while self-optimization focuses on maintaining efficient performance as conditions change.
@@ -139,9 +141,6 @@ However, intelligent networking is not simply about replacing existing protocols
 For computer engineering students, understanding the intersection of networking, Cybersecurity, Data Science and AI/ML opens opportunities to develop systems that are not only connected, but also adaptive, efficient and resilient , future of networking lies in combining established networking principles with intelligent analysis and controlled automation to create networks that can anticipate problems, respond to changing conditions and operate more reliably.
 
 # The future of networking won't be built by those who simply connect systems, but by those who make those systems intelligent.
-
-
-
 
 
 
