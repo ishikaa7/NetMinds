@@ -70,7 +70,8 @@ The system then measures the outcome. If latency decreases and packet loss impro
 Cybersecurity safeguards the process by protecting telemetry, securing communication between components and ensuring that automated actions follow appropriate policies.
 The loop continuously repeats as network conditions change. Its effectiveness depends on reliable data, suitable models, controlled execution and feedback—not simply on deploying an AI model. This combination provides the foundation for self-healing and self-optimizing networks.
 
-<img width="473" height="345" alt="Picture1" src="https://github.com/user-attachments/assets/336d3679-5255-4f6e-96f8-acf1f490d2be" />
+<img width="842" height="617" alt="Screenshot 2026-10-13 003953" src="https://github.com/user-attachments/assets/2124c085-cf62-4080-b77d-e744082e3ed2" />
+
  
 # 5. Self-Healing and Self-Optimizing Networks
 Intelligent networks can go beyond detecting problems to help recover from failures and improve performance. Self-healing focuses on restoring network operation after disruptions, while self-optimization focuses on maintaining efficient performance as conditions change.
