@@ -1,5 +1,5 @@
 # NetMinds
-# Making Networks Think: How AI Is Shaping the Future of Computer Networking
+<img width="1672" height="941" alt="Making Networks Think" src="https://github.com/user-attachments/assets/3fd0e050-aecb-4c5b-9ed4-8001faaacfd2" />
 
 # 1. Introduction
 # What If Networks Could Think Before They Fail?
@@ -70,7 +70,7 @@ The system then measures the outcome. If latency decreases and packet loss impro
 Cybersecurity safeguards the process by protecting telemetry, securing communication between components and ensuring that automated actions follow appropriate policies.
 The loop continuously repeats as network conditions change. Its effectiveness depends on reliable data, suitable models, controlled execution and feedback—not simply on deploying an AI model. This combination provides the foundation for self-healing and self-optimizing networks.
 
-<img width="842" height="617" alt="Screenshot 2026-10-13 003953" src="https://github.com/user-attachments/assets/2124c085-cf62-4080-b77d-e744082e3ed2" />
+<img width="842" height="500" alt="Screenshot 2026-10-13 003953" src="https://github.com/user-attachments/assets/2124c085-cf62-4080-b77d-e744082e3ed2" />
 
  
 # 5. Self-Healing and Self-Optimizing Networks
