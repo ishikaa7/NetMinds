@@ -143,8 +143,12 @@ For computer engineering students, understanding the intersection of networking,
 
 # The future of networking won't be built by those who simply connect systems, but by those who make those systems intelligent.
 
-
-
+_Authored by Team NetMinds(Third Year students of B.E Computer Engineering, Vidyalankar Institute of Technology)
+1.	Soumitra Rajguru
+2.	Ishika Bhute
+3.	Shravani Sawant
+4.	Atharva Tayade
+Under the Guidance of Amit.K Nerurkar(Associate Professor,Vidyalankar Institute of Technology)_
 
 
 
