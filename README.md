@@ -11,7 +11,7 @@ This isn't science fiction. It's the direction in which intelligent networking i
 As our world becomes increasingly dependent on cloud computing, IoT, online services, and real-time communication, traditional network management faces challenges that static rules and reactive troubleshooting alone cannot always solve. The next evolution of networking is not simply about connecting devices faster — it's about building networks that can **understand their own behaviour, anticipate problems, adapt to changing conditions, and defend themselves against cyber threats.**
 
 What if computer networks could not only carry information, but also anticipate problems, adapt to changing conditions and defend themselves against cyber threats.
-So, how do we make a network intelligent? The answer lies at the intersection of **Artificial Intelligence, Data Science, and Cybersecurity**
+So, how do we make a network intelligent? The answer lies at the intersection of **Artificial Intelligence, Data Science, and Cybersecurity**.
 Data Science transforms network telemetry into meaningful insights, Artificial Intelligence and Machine Learning (AI/ML) identify patterns and predict potential problems, and Cybersecurity protects network infrastructure against threats and malicious manipulation.
 Together, three disciplines working together to transform networks from systems that merely carry information into systems that can predict, adapt, and respond.
 
@@ -96,21 +96,27 @@ Together, self-healing and self-optimization move network management towards gre
 Intelligent networking relies on several complementary technologies that enable networks to collect data, analyse conditions, make decisions and execute changes. Their integration provides the foundation for adaptive and increasingly autonomous network management.
 
 6.1 Software-Defined Networking (SDN)
+
 Software-Defined Networking separates the control plane, which determines how traffic is handled, from the data plane, which forwards packets. A logically centralised controller can manage compatible network devices through programmable interfaces. This allows analytics-driven decisions, such as redirecting traffic away from a congested link, to be translated into network changes. SDN provides programmability and control, while AI/ML can help determine which changes are appropriate.
 
 6.2 Network Telemetry and Observability
+
 Telemetry provides measurements such as traffic volume, latency, packet loss, bandwidth utilisation and device status. Data can be collected through mechanisms such as SNMP, flow monitoring, streaming telemetry and system logs. These measurements form the foundation for data analysis, anomaly detection and predictive models. Accurate, timely telemetry is essential for reliable decisions.
 
 6.3 Cloud and Edge Computing
+
 Cloud computing provides scalable resources for storing network data, training models and performing large-scale analytics. Edge computing processes data closer to where it is generated, potentially reducing communication overhead and response latency. For example, a model may be trained in the cloud and deployed at an edge location to detect emerging congestion or suspicious traffic locally.
 
 6.4 Machine Learning and Reinforcement Learning
+
 Machine learning supports tasks such as traffic forecasting, failure prediction and anomaly detection. Reinforcement learning (RL) addresses sequential decision-making by learning strategies through feedback from an environment. An RL-based system could explore resource-allocation strategies to balance latency and throughput. Such systems require careful testing in simulations or controlled environments before deployment.
 
 6.5 Digital Twins
+
 A network digital twin is a digital representation of network topology, capacity, traffic and selected operational constraints. It allows engineers to evaluate proposed changes and simulate failures without immediately modifying production infrastructure. Digital twins can also provide controlled environments for testing AI/ML models, although their usefulness depends on how accurately they represent the real network.
 
 6.6 Intent-Based Networking
+
 Intent-Based Networking allows administrators to specify desired outcomes, such as maintaining low latency or prioritising critical applications. The system translates these objectives into network policies and monitors whether they are being achieved. AI/ML can help predict performance problems, while controllers implement approved changes.
 
 6.7 An Integrated Architecture
